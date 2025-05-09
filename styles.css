@@ -1,0 +1,52 @@
+body {
+    width: 1200px;
+}
+
+.title {
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 60%;
+    margin-bottom: 10px;
+}
+
+.container {
+    display: block;
+    border: 2px solid black;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+
+}
+
+.animal {
+    display: block;
+    border: 2px solid black;
+    margin-bottom: 50px;
+}
+
+img {
+    width: 80%;
+    height: 400px;
+    margin: auto;
+}
+
+.header {
+    border-top: 10px solid red;
+    
+}
+
+
+.footer {
+
+}
+
+h2 {
+    text-align: start;
+}
+
+h3 {
+    text-align: end;
+}
